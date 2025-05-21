@@ -1,5 +1,7 @@
 Projet réalisé en 24H dans le cadre d'un hackathon theme voyage en groupe de 6
 
+https://gamma.app/docs/Epitech-Jam-Travel-Buddy-Your-Smart-Travel-Companion-k03p9ga4ziyy4vv
+
 # 🌐 Dashboard Arduino avec Tailwind CSS
 
 Ce projet est un dashboard simple en HTML/CSS/JS stylisé avec **Tailwind CSS** sans CDN, compilé localement à l’aide du CLI officiel.
